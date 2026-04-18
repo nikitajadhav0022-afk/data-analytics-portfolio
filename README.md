@@ -5,6 +5,8 @@
 
 ### MYSQL Dashboard Link : https://app.powerbi.com/links/TMghX1saJ1?ctid=91577f61-0170-494b-a390-0f33a2bb8755&pbi_source=linkShare
 
+## ## Dashboard Walkthrough
+[Watch the Dashboard Demo on YouTube](https://youtu.be/sUJrro1DbGo)
 
 ## Problem Statement
 
